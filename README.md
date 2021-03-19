@@ -1,4 +1,4 @@
-# vintri-frontend
+# vintri_frontend
 
 ## Introduction
 
