@@ -49,5 +49,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```.todo
 - [X] Project setup.
 - [X] Task 6: Add a Vue.js front end to view/use your API.
-- [ ] Bonus: Add UI tests to the Vue.js front end..
+- [ ] Bonus: Add UI tests to the Vue.js front end.
 ```
