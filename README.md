@@ -3,10 +3,10 @@
 ## Introduction
 
 `vintri-frontend` application to visualize data through Veu.js UI.
-* Start date: 202103180130
-* V0: 202103180135 Project setup.
-* V1: 202103180116 Integrating API.
-* V2: 202103180320 UI tested.
+* Start date: 202103190130
+* V0: 202103190135 Project setup.
+* V1: 202103190116 Integrating API.
+* V2: 202103190320 UI tested.
 
 ## Axios
 * Since lack of time, I decided to just integrate localhost URLs for testing without any config files, and just basic UIs.
