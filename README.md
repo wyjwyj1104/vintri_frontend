@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`vintri_frontend` application to visualize data through Veu.js UI.
+`vintri_frontend` application to visualize data through Vue.js UI.
 * Start date: 202103190130
 * V0: 202103190135 Project setup.
 * V1: 202103190116 Integrating API.
